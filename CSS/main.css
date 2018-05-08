@@ -1,0 +1,45 @@
+body {
+    border:0px;
+    background-color: lightgrey;
+
+    
+}
+
+
+.centrado{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.container{
+    
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    box-shadow: rgba(0,0, 0,0.5) 2px, 2px, 2px, 2px;
+    padding: 20px;
+
+}
+
+input {
+    background-color: transparent;
+    border:0px;
+    border-bottom-color: solid 2px violet; 
+    padding: 5px;
+    display: block;
+    text-align: left !important;
+    margin-bottom: 10px;
+}
+
+botton {
+    border: 0px;
+    padding: 5px;
+    box-shadow: rgba(0,0,0,0.4) 1px,1px,1px,1px;
+}
+    
+
+.loginbien {
+    background-color: rgb(55, 56, 55);
+}
+    
